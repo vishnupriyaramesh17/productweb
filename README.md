@@ -26,7 +26,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## Code:
-'''
+```
 
 styles.css
 
@@ -726,7 +726,7 @@ contact.html
 </html>
  
  
- '''
+ ```
 
 
 ## Output:
